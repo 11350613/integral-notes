@@ -24,8 +24,6 @@ u=\sqrt{\frac{ax+b}{cx+t}}
 ```math
 D=at-bc=0
 \quad\Longrightarrow\quad
-at=bc
-\quad\Longrightarrow\quad
 b=\frac{at}{c}
 ```
 
